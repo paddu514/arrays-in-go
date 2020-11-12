@@ -1,0 +1,12 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	grade1 := 42
+	grade2 := 52
+	grade3 := 78
+	fmt.printf("grades: %v, %v, %v", grade1, grade2, grade3)
+}
